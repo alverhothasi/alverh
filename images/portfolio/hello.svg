@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="605px" height="709px" viewBox="0 0 605 709" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>1024</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="302.5" cy="302.5" r="302.5"></circle>
+        <rect id="path-3" x="99.215637" y="184.985951" width="54" height="88" rx="2"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="54" height="88" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="196.204581" y="185.204581" width="54" height="88" rx="2"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="54" height="88" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <path d="M0,99.9976448 C0,44.7704706 44.7747492,0 99.9998107,0 L161.000189,0 C216.22856,0 261,44.7741917 261,100.001012 L261,100.005578 L261,121.5 L261,204.747038 C261,259.977319 219.944042,322.604048 169.300975,344.626871 L130.5,361.5 L91.6990253,344.626871 C41.055052,322.603654 0,259.988003 0,204.752664 L0,99.9976448 Z" id="path-7"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1024">
+            <g id="Group" transform="translate(0.000000, 104.000000)">
+                <g id="badan">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#06B3BA" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)">
+                        <g transform="translate(120.000000, 205.000000)">
+                            <path d="M0,320.995768 C0,301.115854 13.0228694,275.51668 29.10465,263.805845 L97.5,214 L254.5,214 L318.444838,263.081984 C334.215419,275.18697 347,301.114045 347,320.995768 L347,377.004232 C347,396.884146 330.873132,413 311.00954,413 L35.9904599,413 C16.1134777,413 0,396.885955 0,377.004232 L0,320.995768 Z" id="Rectangle-6" stroke="#444444" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" fill="#EFEFEF"></path>
+                            <rect id="Rectangle-3" stroke="#444444" stroke-width="20" fill="#F8E6D6" x="141" y="0" width="71" height="202" rx="35.5"></rect>
+                            <rect id="Rectangle-4" stroke="none" fill="#444444" x="115" y="151" width="124" height="106" rx="32"></rect>
+                            <use id="Rectangle-5" stroke="#444444" mask="url(#mask-4)" stroke-width="20" fill="#D6D6D6" transform="translate(126.215637, 228.985951) rotate(-45.000000) translate(-126.215637, -228.985951) " xlink:href="#path-3"></use>
+                            <use id="Rectangle-5" stroke="#444444" mask="url(#mask-6)" stroke-width="20" fill="#D6D6D6" transform="translate(223.204581, 229.204581) scale(-1, 1) rotate(-45.000000) translate(-223.204581, -229.204581) " xlink:href="#path-5"></use>
+                            <rect id="Rectangle-8" stroke="none" fill="#979797" opacity="0.5" x="18" y="314" width="31" height="36" rx="10"></rect>
+                            <rect id="Rectangle-8" stroke="none" fill="#979797" opacity="0.5" x="63" y="314" width="31" height="36" rx="10"></rect>
+                            <rect id="Rectangle-8" stroke="none" fill="#979797" opacity="0.5" x="110" y="314" width="31" height="36" rx="10"></rect>
+                            <rect id="Rectangle-8" stroke="none" fill="#979797" opacity="0.5" x="208" y="314" width="31" height="36" rx="10"></rect>
+                            <rect id="Rectangle-8" stroke="none" fill="#979797" opacity="0.5" x="253" y="314" width="31" height="36" rx="10"></rect>
+                            <rect id="Rectangle-8" stroke="none" fill="#979797" opacity="0.5" x="300" y="314" width="31" height="36" rx="10"></rect>
+                            <rect id="Rectangle-8" stroke="none" fill="#979797" opacity="0.5" x="18" y="364" width="31" height="36" rx="10"></rect>
+                            <rect id="Rectangle-8" stroke="none" fill="#979797" opacity="0.5" x="63" y="364" width="31" height="36" rx="10"></rect>
+                            <rect id="Rectangle-8" stroke="none" fill="#979797" opacity="0.5" x="110" y="364" width="31" height="36" rx="10"></rect>
+                            <rect id="Rectangle-8" stroke="none" fill="#979797" opacity="0.5" x="208" y="364" width="31" height="36" rx="10"></rect>
+                            <rect id="Rectangle-8" stroke="none" fill="#979797" opacity="0.5" x="253" y="364" width="31" height="36" rx="10"></rect>
+                            <rect id="Rectangle-8" stroke="none" fill="#979797" opacity="0.5" x="300" y="364" width="31" height="36" rx="10"></rect>
+                            <rect id="Rectangle-8" stroke="none" fill="#979797" opacity="0.5" x="42" y="264" width="31" height="36" rx="10"></rect>
+                            <rect id="Rectangle-8" stroke="none" fill="#979797" opacity="0.5" x="89" y="264" width="31" height="36" rx="10"></rect>
+                            <rect id="Rectangle-8" stroke="none" fill="#979797" opacity="0.5" x="228" y="264" width="31" height="36" rx="10"></rect>
+                            <rect id="Rectangle-8" stroke="none" fill="#979797" opacity="0.5" x="273" y="264" width="31" height="36" rx="10"></rect>
+                            <path d="M141,403.496312 L141,272.503688 L141,272.503688 C141,252.895543 156.889581,237 176.5,237 L176.5,237 C196.106109,237 212,252.892741 212,272.503688 L212,403.496312" id="Rectangle-7" stroke="#444444" stroke-width="20" fill="#444444"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="kepala" transform="translate(118.000000, 0.000000)">
+                <ellipse id="Oval-3" stroke="#444444" stroke-width="12" fill="#F9E6D6" cx="43.5" cy="248.5" rx="43.5" ry="43.5"></ellipse>
+                <ellipse id="Oval-3" stroke="#444444" stroke-width="12" fill="#F9E6D6" cx="303.5" cy="248.5" rx="43.5" ry="43.5"></ellipse>
+                <g id="Rectangle-2" transform="translate(44.000000, 74.000000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <use id="Mask" fill="#F8E6D6" xlink:href="#path-7"></use>
+                    <rect fill="#444444" opacity="0.455955616" mask="url(#mask-8)" x="-46" y="44" width="79" height="125" rx="26"></rect>
+                    <rect fill="#444444" opacity="0.455955616" mask="url(#mask-8)" x="233" y="34" width="79" height="125" rx="26"></rect>
+                </g>
+                <path d="M174.5,435.5 L135.699025,418.626871 C85.055052,396.603654 44,333.988003 44,278.752664 L44,173.997645 L44,173.997645 C44,118.770471 88.7747492,74 143.999811,74 L205.000189,74 C260.22856,74 305,118.774192 305,174.001012 L305,174.005578 L305,195.5 L305,278.747038 C305,333.977319 263.944793,396.603721 213.300975,418.626871 L213.300975,418.626871" id="Rectangle" stroke="#444444" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"></path>
+                <ellipse id="Oval-2" fill="#444444" cx="109.5" cy="220.5" rx="16.5" ry="16.5"></ellipse>
+                <ellipse id="Oval-2" fill="#444444" cx="244.5" cy="220.5" rx="16.5" ry="16.5"></ellipse>
+                <polygon id="Triangle" stroke="#444444" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="#F9E8D9" points="175 233 199 298 151 298"></polygon>
+                <path d="M154.5,362 L195.548752,362" id="Line" stroke="#2D263B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M133.723342,134 C275.287763,83.6089587 303.0551,158.880071 303.0551,96.3402879 C303.0551,33.8005044 243.681893,0.141389414 186.723342,23.5 C129.764791,46.8586106 41.2233423,0 41.2233423,0 C41.2233423,0 -7.84107854,184.391041 133.723342,134 Z" id="Oval" fill="#444444"></path>
+                <path d="M116,327 C116,327 173,352.5 230,327" id="Line" stroke="#2D263B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                <ellipse id="Oval-4" fill="#F1CFD9" cx="109.5" cy="257.5" rx="22.5" ry="8.5"></ellipse>
+                <ellipse id="Oval-4" fill="#F1CFD9" cx="239.5" cy="257.5" rx="22.5" ry="8.5"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

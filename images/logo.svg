@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="159px" height="39px" viewBox="0 0 159 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,8.39635911 C0,3.75917802 3.76214772,3.55271368e-15 8.4021506,3.55271368e-15 L13.4105295,3.55271368e-15 C18.0509092,3.55271368e-15 21.8126801,3.76621449 21.8126801,8.25734133 L21.8126801,8.25734133 L21.8126801,10.0321101 L21.8126801,16.7567968 C21.8126801,21.3993426 18.361846,26.6454715 14.0902237,28.4807134 L10.9063401,29.8486239 L7.72245638,28.4807134 C3.45746149,26.6483188 0,21.3957337 0,16.7665104 L0,8.39635911 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="kepala">
+                <ellipse id="Oval-3" stroke="#444444" stroke-width="1.00799996" fill="#F9E6D6" cx="3.63544669" cy="20.5183486" rx="3.63544669" ry="3.59174312"></ellipse>
+                <ellipse id="Oval-3" stroke="#444444" stroke-width="1.00799996" fill="#F9E6D6" cx="25.3645533" cy="20.5183486" rx="3.63544669" ry="3.59174312"></ellipse>
+                <g id="Rectangle-2" transform="translate(3.677233, 6.110092)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#F8E6D6" xlink:href="#path-1"></use>
+                    <rect fill="#444444" opacity="0.455955616" mask="url(#mask-2)" x="-3.8443804" y="3.63302752" width="6.60230548" height="10.3211009" rx="2.18399991"></rect>
+                    <rect fill="#444444" opacity="0.455955616" mask="url(#mask-2)" x="19.4726225" y="2.80733945" width="6.60230548" height="10.3211009" rx="2.18399991"></rect>
+                </g>
+                <path d="M14.5835735,35.9587156 L11.3408407,34.5655215 C7.10834729,32.7470907 3.67723343,27.5769911 3.67723343,23.016275 L3.67723343,14.366778 L3.67723343,14.366778 C3.67723343,9.8067361 7.41921535,6.11009174 12.0345663,6.11009174 L17.1325807,6.11009174 C21.7482082,6.11009174 25.4899135,9.80704335 25.4899135,14.3670561 L25.4899135,14.3674331 L25.4899135,16.1422018 L25.4899135,23.0158104 C25.4899135,27.5761089 22.0587867,32.7470963 17.8263062,34.5655215 L17.8263062,34.5655215" id="Rectangle" stroke="#444444" stroke-width="1.67999993" stroke-linecap="round" stroke-linejoin="round"></path>
+                <ellipse id="Oval-2" fill="#444444" cx="9.15129683" cy="18.206422" rx="1.37896254" ry="1.36238532"></ellipse>
+                <ellipse id="Oval-2" fill="#444444" cx="20.4337176" cy="18.206422" rx="1.37896254" ry="1.36238532"></ellipse>
+                <polygon id="Triangle" stroke="#444444" stroke-width="0.671999974" stroke-linecap="round" stroke-linejoin="round" fill="#F9E8D9" points="14.6253602 19.2385321 16.6311239 24.6055046 12.6195965 24.6055046"></polygon>
+                <path d="M12.9121037,29.8899083 L16.342691,29.8899083" id="Line" stroke="#2D263B" stroke-width="0.839999967" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M11.175726,11.0642202 C23.0067583,6.903492 25.3273715,13.118538 25.3273715,7.95470267 C25.3273715,2.79086734 20.3653455,0.0116743553 15.6051208,1.94036697 C10.8448961,3.86905959 3.44517846,0 3.44517846,0 C3.44517846,0 -0.655306275,15.2249484 11.175726,11.0642202 Z" id="Oval" fill="#444444"></path>
+                <path d="M9.6945245,27 C9.6945245,27 14.4582133,29.1055046 19.221902,27" id="Line" stroke="#2D263B" stroke-width="0.839999967" stroke-linecap="round" stroke-linejoin="round"></path>
+                <ellipse id="Oval-4" fill="#F1CFD9" cx="9.15129683" cy="21.2614679" rx="1.88040346" ry="0.701834862"></ellipse>
+                <ellipse id="Oval-4" fill="#F1CFD9" cx="20.0158501" cy="21.2614679" rx="1.88040346" ry="0.701834862"></ellipse>
+            </g>
+            <text id="ALVER" font-family="DINCondensed-Bold, DIN Condensed" font-size="40" font-weight="bold" fill="#2D263B">
+                <tspan x="33.38" y="33">ALVER</tspan>
+            </text>
+            <text id="UI/UX" font-family="DINCondensed-Bold, DIN Condensed" font-size="16" font-weight="bold" fill="#06B3BA">
+                <tspan x="114" y="17">UI/UX</tspan>
+            </text>
+            <text id="Designer" font-family="DINCondensed-Bold, DIN Condensed" font-size="16" font-weight="bold" fill="#06B3BA">
+                <tspan x="114" y="33">Designer</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
