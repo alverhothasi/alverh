@@ -20,7 +20,7 @@
 	.grid-lod li{ width:100% !important; position:static !important; display:inline-block}
 	.grid-lod li img{ width:100%}
 	.work-details,.blog-details{ padding:0; margin-top:0}
-	.comments-reply li section{ width:88%}
+	.comments-reply li section{ width:88%}
 }
 /* xs */
 @media (max-width: 767px) {
@@ -61,5 +61,5 @@
 	.reply-pan{ margin-left:20px}
 	.commentys-form input[type="text"], .commentys-form input[type="email"], .commentys-form input[type="url"], .commentys-form textarea{ margin-bottom:20px}
 	.commentys-form textarea{ margin-top:0; margin-bottom:0}
-	
+	img.img-center-normal{		    max-width: 45%;	}
 }

@@ -451,13 +451,14 @@ text-align:center; margin: 0 auto;
 .torcolor{
 	color:#06B3BA;
 }
-.img-center{
-	width: 20%;
+.img-center-normal{
 	align-content: center;
 	border-width: 3px;
 	text-align: center;
 	margin: 10px auto;
+  max-width: 18%;
 }
+
 .gradient{
 	background-image: linear-gradient( to right, #4568DC, #B06AB3 );
 
